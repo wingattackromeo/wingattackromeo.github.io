@@ -1,0 +1,9 @@
+html, body { margin: 0; height: 100%; font-family: 'Exo 2', sans-serif; font-weight: 300; }
+h1, h2 { text-transform: lowercase; font-weight: 400; }
+
+html {
+	background: #fff url('img/background-960.png') 50% 50% no-repeat;
+}
+h1 {
+	visibility: hidden;
+}
